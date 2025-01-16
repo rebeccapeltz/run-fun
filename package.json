@@ -1,0 +1,18 @@
+{
+  "name": "run_fun",
+  "version": "1.0.0",
+  "description": "run_fun provides a wrapper that runs a function and measures the time elapsed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function",
+    "wrapper",
+    "performance",
+    "time",
+    "elapsed"
+  ],
+  "author": "Becky Peltz",
+  "license": "MIT"
+}

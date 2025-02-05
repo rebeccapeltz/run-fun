@@ -1,4 +1,15 @@
 # fun_run:  
+
+DEPRECATED DO TO INCORRECT NAMING OF THE NPM PACKAGE
+
+LOOK FOR run-fun FOR A CORRECTED NAME
+
+![not maintained](https://img.shields.io/badge/maintained%3F-no!-red.svg)
+
+
+
+
+
 A package that provides a wrapper and timer around a function
 
 The package includes a function, `runFunctionWithArg(func, ...args)` that runs the 

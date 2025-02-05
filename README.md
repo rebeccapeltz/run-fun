@@ -2,7 +2,7 @@
 
 DEPRECATED DO TO INCORRECT NAMING OF THE NPM PACKAGE
 
-LOOK FOR run-fun FOR A CORRECTED NAME
+LOOK FOR fun-run FOR A CORRECTED NAME
 
 ![not maintained](https://img.shields.io/badge/maintained%3F-no!-red.svg)
 
